@@ -8,3 +8,6 @@ Second, enter "1" to generate keys, they only need to be generated once.
 Third, enter "2" and then enter a message to encrypt.
 Fourth. enter "3" to decrypt the encrypted message.
 Enter "q" anytime to quit.
+
+
+//Update: this contains a horrendous secuirty vulnerbility. It uses untrusted user data as parameters to run a application. Possibly vulnerable to injection attacks.
